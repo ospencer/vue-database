@@ -1,6 +1,6 @@
 # Vue DB
 
-This repo demonstrates a few ways Vue.js could be used as a backend/database. This was used as the demo portion of my talk at VueToronto 2020, _Unlocking the Power of Reactivity with Vue 3_. You can find the slides at hhttps://slides.com/ospencer/unlocking-the-power-of-reactivity-with-vue-3.
+This repo demonstrates a few ways Vue.js could be used as a backend/database. This was used as the demo portion of my talk at VueToronto 2020, _Unlocking the Power of Reactivity with Vue 3_. You can find the slides at https://slides.com/ospencer/unlocking-the-power-of-reactivity-with-vue-3.
 
 ## Setup
 
